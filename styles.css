@@ -1,0 +1,12 @@
+body{
+    padding: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+p:nth-child(odd) {
+    background: rgb(189, 185, 185);
+  }
+
+
+
